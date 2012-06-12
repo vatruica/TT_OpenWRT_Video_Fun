@@ -8,14 +8,16 @@ Description
 In this technology template you will find out how to do different video related stuff with and OpenWRT running router.
 
 Examples:
-- video streaming
+- usb-webcam video streaming
+- ip-cam video streaming
 
 Requirements
 ------------------
 - openwrt running router
+- usb-webcam
 - ethernet cables
 - PC running linux
-- some linux knowledge
+- some linux command-line knowledge
 
 VideoStreaming - HowTo:
 ------------------
